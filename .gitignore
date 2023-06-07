@@ -1,3 +1,5 @@
 venv
 .idea
 __pycache__
+token.json
+smb_study_zone.json
